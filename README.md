@@ -21,7 +21,7 @@ Antes de ejecutar el proyecto, asegúrate de tener instalado:
 ### 1️⃣ Clonar el repositorio  
 
 ```sh
-git clone https://github.com/tuusuario/gestor-tareas-backend.git  
+git clone https://github.com/wilderpalacios/gestor-tareas-backend.git 
 cd gestor-tareas-backend  
 ```
 
